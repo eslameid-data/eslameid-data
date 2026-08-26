@@ -213,7 +213,7 @@ Financial performance analysis comparing planned budgets with actual results and
 
 Interactive analysis of supermarket sales, profitability, product performance, customer behavior, branches, and payment methods.
 
-🔗 [View Projec](https://github.com/eslameid-data/supermarket-sales-analysis)
+🔗 [View Project](https://github.com/eslameid-data/supermarket-sales-analysis)
 
 ---
 
