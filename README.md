@@ -91,7 +91,7 @@ End-to-end enterprise analytics project focused on customer profitability, reven
 * Risk analysis
 * Executive Power BI dashboard
 
-🔗 [View Project]([https://github.com/](https://github.com/eslameid-data/enterprise-profitability-cost-to-serve))
+🔗 [View Project](https://github.com/eslameid-data/enterprise-profitability-cost-to-serve)
 
 ---
 
@@ -110,7 +110,7 @@ A financial analytics project demonstrating data warehouse architecture, staging
 * Financial analytics
 * SQL reporting
 
-🔗 [View Project]([https://github.com/](https://github.com/eslameid-data/financial-analytics-data-warehouse))
+🔗 [View Project](https://github.com/eslameid-data/financial-analytics-data-warehouse)
 
 ---
 
@@ -129,7 +129,7 @@ Interactive sales and customer analytics using AdventureWorks data, covering rev
 * Product performance
 * Territory analysis
 
-🔗 [View Project]([https://github.com/](https://github.com/eslameid-data/adventureWorks-power-bi-analysis))
+🔗 [View Project](https://github.com/eslameid-data/adventureWorks-power-bi-analysis)
 
 ---
 
@@ -149,7 +149,7 @@ A relational healthcare analytics project transforming raw CSV data through stag
 * Stored Procedures
 * Healthcare KPIs
 
-🔗 [View Project]([https://github.com/](https://github.com/eslameid-data/healthcare-analytics))
+🔗 [View Project](https://github.com/eslameid-data/healthcare-analytics)
 
 ---
 
@@ -166,7 +166,7 @@ A Superstore sales analytics project focused on profitability, customer value, p
 * 12.47% Profit Margin
 * 299 loss-making products
 
-🔗 [View Project]([https://github.com](https://github.com/eslameid-data/e-commerce-sales-analysis)/)
+🔗 [View Project](https://github.com/eslameid-data/e-commerce-sales-analysis)
 
 ---
 
@@ -185,7 +185,7 @@ An HR analytics project analyzing workforce composition, compensation, turnover,
 * Power Pivot modeling
 * HR KPI development
 
-🔗 [View Project]([https://github.com/](https://github.com/eslameid-data/hr-workforce-compensation-analytics))
+🔗 [View Project](https://github.com/eslameid-data/hr-workforce-compensation-analytics)
 
 ---
 
@@ -197,7 +197,7 @@ An HR analytics project analyzing workforce composition, compensation, turnover,
 
 SQL-based sales, customer, product, order, and territory analysis using the AdventureWorks 2022 database.
 
-🔗 [View Project]([https://github.com/](https://github.com/eslameid-data/adventureworks-2022-analysis))
+🔗 [View Project](https://github.com/eslameid-data/adventureworks-2022-analysis)
 
 ### 8. Budget vs Actual Analysis
 
@@ -205,7 +205,7 @@ SQL-based sales, customer, product, order, and territory analysis using the Adve
 
 Financial performance analysis comparing planned budgets with actual results and highlighting variances.
 
-🔗 [View Project]([https://github.com/](https://github.com/eslameid-data/budget-actual-analysis-dashboard))
+🔗 [View Project](https://github.com/eslameid-data/budget-actual-analysis-dashboard)
 
 ### 9. Supermarket Sales Analysis
 
@@ -213,7 +213,7 @@ Financial performance analysis comparing planned budgets with actual results and
 
 Interactive analysis of supermarket sales, profitability, product performance, customer behavior, branches, and payment methods.
 
-🔗 [View Project]([https://github.com/](https://github.com/eslameid-data/supermarket-sales-analysis))
+🔗 [View Projec](https://github.com/eslameid-data/supermarket-sales-analysis)
 
 ---
 
