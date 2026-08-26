@@ -234,7 +234,7 @@ My projects are built with an emphasis on **data validation, analytical accuracy
 ## 📫 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/eslam-eid-80781a202](https://www.linkedin.com/in/eslam-eid-80781a202)
-* **Email:** [ie1214@fayoum.edu.eg](mailto:ie1214@fayoum.edu.eg)
+* **Email:** [aslamyd609@gmail.com](mailto:aslamyd609@gmail.com)
 
 ---
 
